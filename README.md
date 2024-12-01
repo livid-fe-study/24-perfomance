@@ -13,4 +13,4 @@ https://hackmd.io/I38g1irwSg6OV98K6z1EZQ
 |  6  |   worker                           | 11/27  |
 |  7  | SSR vs CSR                         | 12/04  |
 |  8  | Next Image + picture + media query | 12/11  |
-|  9  | react-grid-dnd                     | 12/18  |
+|  9  | 회고                                | 12/18  |
